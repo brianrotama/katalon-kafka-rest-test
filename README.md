@@ -38,5 +38,3 @@ kafka-console-producer \
 
 Type:
 HelloKafka
-
-test
